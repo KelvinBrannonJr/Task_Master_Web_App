@@ -17,7 +17,7 @@ def add_task():
     # The order on the page correlates with the order they listed in this file
 st.title("Task Master Web App")
 st.subheader("Maximize your productivity")
-st.write("Please select from the menu")
+st.write("Please select from the menu to remove completed tasks")
 
 
 # Iterate through the list and create a checkbox for each item
