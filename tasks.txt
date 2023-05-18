@@ -1,0 +1,7 @@
+relax
+code
+use streamlit
+Sweep floor
+Brew tea
+jog a mile
+Do laundry
